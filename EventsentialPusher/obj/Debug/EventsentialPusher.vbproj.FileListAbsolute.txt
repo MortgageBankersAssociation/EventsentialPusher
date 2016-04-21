@@ -1,0 +1,11 @@
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\bin\Debug\EventsentialPusher.exe.config
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\bin\Debug\EventsentialPusher.exe
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\bin\Debug\EventsentialPusher.pdb
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\bin\Debug\EventsentialPusher.xml
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.vbprojResolveAssemblyReference.cache
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.Form1.resources
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.Resources.resources
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.vbproj.GenerateResource.Cache
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.exe
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.xml
+C:\Users\jnorman\Documents\GitHub\EventsentialPusher\EventsentialPusher\obj\Debug\EventsentialPusher.pdb
